@@ -1,0 +1,9 @@
+/*
+ * Copyright (c) 2024 YuJie Ge(Smile)
+ * Licensed under the MIT License.
+ */
+.arco-empty-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

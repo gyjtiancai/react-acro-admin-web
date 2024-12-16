@@ -1,0 +1,57 @@
+/*
+ * Copyright (c) 2024 YuJie Ge(Smile)
+ * Licensed under the MIT License.
+ */
+.arco-spin-children::after {
+  background-color: rgba(255, 255, 255, 0);
+}
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+
+.logo {
+  background: rgb(var(--primary-6));
+}
+.title {
+  color: rgb(var(--primary-6));
+}
+.arco-tabs-header-nav::before {
+  display: none !important;
+}
+.arco-tabs-header-nav-card-gutter .arco-tabs-header-title {
+  background-color: var(--color-bg-3) !important;
+}
+.arco-tabs-header-nav-card-gutter .arco-tabs-header-title-active,
+.arco-tabs-header-nav-card-gutter .arco-tabs-header-title-active:hover {
+  border-color: rgb(var(--primary-6)) !important;
+}
+.arco-layout {
+  min-height: 0;
+  overflow: auto;
+}
+
+.layout-collapse-demo {
+  height: 500px;
+  border: 1px solid var(--color-border);
+  background: var(--color-fill-2);
+}
+
+.layout-collapse-demo .arco-layout-footer {
+  color: var(--color-text-2);
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layout-collapse-demo .arco-layout-content {
+  /* background: var(--color-bg-3); */
+  color: var(--color-text-2);
+}
+.arco-tabs-add-icon {
+  display: none;
+}
+.arco-menu-collapse {
+  margin-left: 10px;
+}

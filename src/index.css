@@ -1,0 +1,46 @@
+/*
+ * Copyright (c) 2024 YuJie Ge(Smile)
+ * Licensed under the MIT License.
+ */
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+html {
+  font-size: 16px;
+}
+body {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: var(--color-bg-1);
+  color: var(--color-text-1);
+  color-scheme: dark;
+}
+/* WebKit */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--primary-6));
+}
