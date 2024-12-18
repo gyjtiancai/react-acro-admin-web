@@ -26,7 +26,7 @@ React Acro Admin 是一款极简风格的后台管理模板。
 
 ## 演示
 
-![演示](/src/assets/image/demo.gif)
+![演示](../src/assets/image/demo.gif)
 
 ## 版权说明
 
@@ -42,11 +42,11 @@ React Acro Admin 是一款极简风格的后台管理模板。
 
 微信：yjyjyjyjgyj
 
-![微信](/src/assets/image/wx.png)
+![微信](../src/assets/image/wx.png)
 
 QQ：961211746
 
-![QQ](/src/assets/image/qq.png)
+![QQ](../src/assets/image/qq.png)
 
 ## 打赏作者
 
@@ -54,8 +54,8 @@ QQ：961211746
 
 微信
 
-![微信](/src/assets/image/wx_pay.png)
+![微信](../src/assets/image/wx_pay.png)
 
 支付宝
 
-![支付宝](/src/assets/image/zfb.png)
+![支付宝](../src/assets/image/zfb.png)

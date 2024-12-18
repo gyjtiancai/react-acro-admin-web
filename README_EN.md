@@ -26,7 +26,7 @@ Open source in December 2024, it aims to help enterprises, students and individu
 
 ## Demo
 
-![Demo](/src/assets/image/demo.gif)
+![Demo](./src/assets/image/demo.gif)
 
 ## License
 
@@ -42,11 +42,11 @@ Price: 99 yuan/year or 28 yuan/time
 
 WeChat: yjyjyjyjgyj
 
-![WeChat](/src/assets/image/wx.png)
+![WeChat](./src/assets/image/wx.png)
 
 QQ：961211746
 
-![QQ](/src/assets/image/qq.png)
+![QQ](./src/assets/image/qq.png)
 
 ## Donate to the author
 
@@ -54,8 +54,8 @@ If you think this project is helpful to you, please buy a cup of coffee for the 
 
 WeChat
 
-![WeChat](/src/assets/image/wx_pay.png)
+![WeChat](./src/assets/image/wx_pay.png)
 
 Alipay
 
-![Alipay](/src/assets/image/zfb.png)
+![Alipay](./src/assets/image/zfb.png)
