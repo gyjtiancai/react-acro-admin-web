@@ -30,6 +30,8 @@ function App() {
   const [localeConfig, setLocaleConfig] = useState(zhCN)
   useEffect(() => {
     getUser()
+  }, [])
+  useEffect(() => {
     i18n.changeLanguage(locale)
     switch (locale) {
       case "zh":
