@@ -32,12 +32,6 @@ Open source in December 2024, it aims to help enterprises, students and individu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Consulting Service
-
-Paid service: system issues and other technical related consultation.
-
-Price: 99 yuan/year or 28 yuan/time
-
 ## Contact the author
 
 WeChat: yjyjyjyjgyj
