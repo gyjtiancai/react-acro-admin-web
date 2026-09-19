@@ -14,7 +14,7 @@ React Acro Admin 是一款极简风格的后台管理模板。
 - 🎉 使用 `Tailwindcss` Css 框架
 - 🎉 集成 `React` 路由，`扁平化路由`设计
 - 🎉 集成 `Zustand` 状态管理，支持状态持久化
-- 🎉 集成 `AcroDesign` 企业级组件库，智能设计体系，连接轻盈体验
+- 🎉 集成 `Arco Design` 企业级组件库，智能设计体系，连接轻盈体验
 
 ## 特性
 
